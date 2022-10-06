@@ -71,7 +71,7 @@ class MainActivity : AppCompatActivity(), RecipeAdapter.Listener {
     }
 
     private fun onItemListenerFilter() {
-        Log.d("mylog", "Фильтр")
+        //Log.d("mylog", "Фильтр")
     }
 
     private fun onItemListenerSearch() {
