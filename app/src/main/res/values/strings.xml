@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name"> Книга рецептов </string>
+    <string name="btn_add"> Добавить рецепт </string>
+    <string name="btn_save"> Сохранить </string>
+    <string name="btn_next"> След. изобр. </string>
+    <string name="recipe_title"> Введите название рецепта </string>
+    <string name="recipe_ingredients"> Введите ингредиенты </string>
+    <string name="recipe_desc"> Введите описание </string>
+
+    <string name="ingredients"> Ингредиенты: </string>
+    <string name="how_cook"> Как готовить: </string>
+    <string name="filter">Фильтр</string>
+    <string name="search">Поиск</string>
+    <string name="change">Изменить</string>
+    <string name="delete">Удалить</string>
+
+
+
+
+
+</resources>
