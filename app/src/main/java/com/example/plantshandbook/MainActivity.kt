@@ -55,12 +55,6 @@ class MainActivity : AppCompatActivity(), RecipeAdapter.Listener {
                 })
             }
         }
-//        editLauncherMain =
-//            registerForActivityResult(ActivityResultContracts.StartActivityForResult()) { resultCode ->
-//                if (resultCode.resultCode == RESULT_OK) {
-//
-//                }
-//            }
 
     }
 
